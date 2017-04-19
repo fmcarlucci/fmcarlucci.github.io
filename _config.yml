@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Fabio Maria Carlucci
 tagline:          'Online CV'
-description:      >- 'I am a PhD student at Sapienza University of Rome, advised by <a href="https://scholar.google.com/citations?user=mHbdIAwAAAAJ" target="_blank">Prof. Barbara Caputo</a>. My current research interests are Transfer Learning and Domain Adaptation, in theory and efficient practice.'
+description:      'I am a PhD student at Sapienza University of Rome, advised by <a href="https://scholar.google.com/citations?user=mHbdIAwAAAAJ" target="_blank">Prof. Barbara Caputo</a>. My current research interests are Transfer Learning and Domain Adaptation, in theory and efficient practice.'
 url:              https://fmcarlucci.github.io/
 baseurl:          /
 
