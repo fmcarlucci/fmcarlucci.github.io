@@ -2,13 +2,14 @@
 layout: page
 title: Publications
 ---
-  
+
+<pre>
 @article{carlucci20172,
   title={DE2CO: Deep Depth Colorization},
   author={Carlucci, FM and Russo, P and Baharlou, SM and Caputo, B},
   journal={arXiv preprint arXiv:1703.10881},
   year={2017}
-}
+}</pre>
 
 @article{carlucci2017just,
   title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
