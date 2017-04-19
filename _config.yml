@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Fabio Maria Carlucci
 tagline:          'Online CV'
-description:      'I''am a PhD student at Sapienza University of Rome, advised by <a href="https://scholar.google.com/citations?user=mHbdIAwAAAAJ" target="_blank">Prof. Barbara Caputo</a>. My current research interest is focussed on Deep Learning applied to machine vision.'
+description:      'I''am a PhD student at Sapienza University of Rome, advised by <a href="https://scholar.google.com/citations?user=mHbdIAwAAAAJ" target="_blank">Prof. Barbara Caputo</a>. My current research area is Deep Learning applied to machine vision.'
 url:              https://fmcarlucci.github.io/
 baseurl:          /
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  #url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -23,4 +23,4 @@ version:          2.1.0
 gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/fmcarlucci/fmcarlucci.github.io/
