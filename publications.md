@@ -11,12 +11,12 @@ title: Publications
   year={2017}
 }</pre>
 
-@article{carlucci2017just,
-  title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
-  author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
-  journal={arXiv preprint arXiv:1702.06332},
-  year={2017}
-}
+> @article{carlucci2017just,
+>  title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
+>  author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
+>  journal={arXiv preprint arXiv:1702.06332},
+>  year={2017}
+>}
 
 @inproceedings{carlucci2016deep,
   title={A deep representation for depth images from synthetic data},
