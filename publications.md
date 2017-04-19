@@ -18,7 +18,7 @@ arXiv 2017 [PDF]
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [PDF]
+arxiv 2017 [PDF - Project Page - BIBTEX]
 
 <pre class="bibitem">
 @article{carlucci2017just,
@@ -29,6 +29,9 @@ arxiv 2017 [PDF]
 }
 </pre>
 
+> **A deep representation for depth images from synthetic data**  
+F.M. Carlucci, P. Russo and B. Caputo  
+ICRA 2017 [PDF] [W
 <pre class="bibitem">
 @inproceedings{carlucci2016deep,
   title={A deep representation for depth images from synthetic data},
