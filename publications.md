@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 <div class="paperentry">
-<span class="title">DE2CO: Deep Depth Colorization</span>
-<span class="authors">F.M. Carlucci, P. Russo and B. Caputo</span>
+<span class="title">DE2CO: Deep Depth Colorization</span>  
+<span class="authors">F.M. Carlucci, P. Russo and B. Caputo</span>  
 arXiv 2017 [PDF]
 <pre class="bibitem">
 @article{carlucci20172,
