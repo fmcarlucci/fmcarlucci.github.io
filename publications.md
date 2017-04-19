@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 <div class="paperentry">
-DE2CO: Deep Depth Colorization   
-F.M. Carlucci, P. Russo and B. Caputo  
+<span class="title">DE2CO: Deep Depth Colorization</span>
+<span class="authors">F.M. Carlucci, P. Russo and B. Caputo</span>
 arXiv 2017 [PDF]
 <pre class="bibitem">
 @article{carlucci20172,
@@ -15,6 +15,11 @@ arXiv 2017 [PDF]
 }
 </pre>
 </div>
+
+**Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
+F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
+arxiv 2017 [PDF]
+
 <pre class="bibitem">
 @article{carlucci2017just,
   title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
