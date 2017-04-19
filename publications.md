@@ -2,23 +2,28 @@
 layout: page
 title: Publications
 ---
-
+<div class="paperentry">
+<span class="title">DE2CO: Deep Depth Colorization</span>
+<span class="authors">F.M. Carlucci, P. Russo and B. Caputo</span>
+arXiv 2017 [PDF]
 <pre class="bibitem">
 @article{carlucci20172,
   title={DE2CO: Deep Depth Colorization},
   author={Carlucci, FM and Russo, P and Baharlou, SM and Caputo, B},
   journal={arXiv preprint arXiv:1703.10881},
   year={2017}
-}</pre>
-
-```
+}
+</pre>
+</div>
+<pre class="bibitem">
 @article{carlucci2017just,
   title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
   author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
   journal={arXiv preprint arXiv:1702.06332},
   year={2017}
 }
-```
+</pre>
+
 <pre class="bibitem">
 @inproceedings{carlucci2016deep,
   title={A deep representation for depth images from synthetic data},
