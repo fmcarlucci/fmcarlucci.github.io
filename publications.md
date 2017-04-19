@@ -14,7 +14,6 @@ arXiv 2017 [PDF - BIBTEX]
   year={2017}
 }
 </pre>
-</div>
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
