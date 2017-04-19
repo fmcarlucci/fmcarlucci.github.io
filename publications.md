@@ -2,10 +2,10 @@
 layout: page
 title: Publications
 ---
-<div class="paperentry">
-<span class="title">DE2CO: Deep Depth Colorization</span>
-<span class="authors">F.M. Carlucci, P. Russo and B. Caputo</span>
-arXiv 2017 [PDF]
+> **DE2CO: Deep Depth Colorization**  
+F.M. Carlucci, P. Russo and B. Caputo  
+arXiv 2017 [PDF - BIBTEX]
+
 <pre class="bibitem">
 @article{carlucci20172,
   title={DE2CO: Deep Depth Colorization},
@@ -18,7 +18,7 @@ arXiv 2017 [PDF]
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [PDF - Project Page - BIBTEX]
+arxiv 2017 [PDF - BIBTEX]
 
 <pre class="bibitem">
 @article{carlucci2017just,
@@ -31,7 +31,8 @@ arxiv 2017 [PDF - Project Page - BIBTEX]
 
 > **A deep representation for depth images from synthetic data**  
 F.M. Carlucci, P. Russo and B. Caputo  
-ICRA 2017 [PDF] [W
+ICRA 2017 [PDF - Project Page - BIBTEX]
+
 <pre class="bibitem">
 @inproceedings{carlucci2016deep,
   title={A deep representation for depth images from synthetic data},
@@ -40,6 +41,10 @@ ICRA 2017 [PDF] [W
   year={2017}
 }
 </pre>
+
+> **When Naive Bayes Nearest Neighbors Meet Convolutional Neural Networks**  
+I. Kuzborskij, F.M. Carlucci and B. Caputo  
+CVPR 2016 [PDF - Project Page - BIBTEX]
 
 <pre class="bibitem">
 @inproceedings{kuzborskij2016naive,
@@ -50,6 +55,10 @@ ICRA 2017 [PDF] [W
   year={2016}
 }
 </pre>
+
+> **Explicit representation of social norms for social robots**  
+F.M. Carlucci, L. Nardi, L. Iocchi and D. Nardi  
+IROS 2015 [PDF - Project Page - BIBTEX]
 
 <pre class="bibitem">
 @inproceedings{carlucci2015explicit,
