@@ -75,5 +75,6 @@ $(document).ready(function(){
   $('span.bibtex').attr('title', 'Shows bibtex entry');
   $('span.bibtex').append('<img class="clipboard" src="{{ site.baseurl }}public/images/clipboard.png"/>');
   $('span.bibtex img').attr('title', 'Copy bibtex entry');
+  // TODO give feedback for copying action
 });
 </script>
