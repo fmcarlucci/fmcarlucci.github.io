@@ -6,3 +6,7 @@
 pre.bibitem {
   display: none;
 }
+
+span.bibtex {
+  cursor: pointer;
+}
