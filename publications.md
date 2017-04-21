@@ -6,7 +6,7 @@ title: Publications
 F.M. Carlucci, P. Russo and B. Caputo  
 arXiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
 
-<pre class="bibitem">
+<pre class="bibitem" id="test">
 @article{carlucci20172,
   title={DE2CO: Deep Depth Colorization},
   author={Carlucci, FM and Russo, P and Baharlou, SM and Caputo, B},
