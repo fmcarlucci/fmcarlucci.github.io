@@ -1,3 +1,4 @@
 $('span.bibtex').click(function(){
-  $(this).next('.bibitem').show()
+  $('.bibitem').hide();
+  $(this).parents('blockquote').next('.bibitem').show(1.0);
 });
