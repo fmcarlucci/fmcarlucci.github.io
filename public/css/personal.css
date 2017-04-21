@@ -23,5 +23,6 @@ img.clipboard {
   height: 23px; 
   vertical-align: middle;
   margin-bottom: 5px;
+  margin-left: 6px;
   cursor: pointer;
 }
