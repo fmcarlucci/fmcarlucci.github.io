@@ -1,5 +1,5 @@
 function copyToClipboard(text) {
-  var $temp = $("<input>");
+  var $temp = $("<textarea>");
   $("body").append($temp);
   $temp.val(text).select();
   document.execCommand("copy");
