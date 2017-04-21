@@ -73,5 +73,5 @@ IROS 2015 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
 <script>
 $(document).ready(function(){
   $('span.bibtex').attr('title', 'Shows and copies bibtex entry');
-}
+});
 </script>
