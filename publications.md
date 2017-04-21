@@ -4,7 +4,7 @@ title: Publications
 ---
 > **DE2CO: Deep Depth Colorization**  
 F.M. Carlucci, P. Russo and B. Caputo  
-arXiv 2017 [PDF - BIBTEX]
+arXiv 2017 [PDF - <span class="BIBTEX">BIBTEX</span>]
 
 <pre class="bibitem">
 @article{carlucci20172,
@@ -17,7 +17,7 @@ arXiv 2017 [PDF - BIBTEX]
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [PDF - BIBTEX]
+arxiv 2017 [PDF - <span class="BIBTEX">BIBTEX</span>]
 
 <pre class="bibitem">
 @article{carlucci2017just,
@@ -30,7 +30,7 @@ arxiv 2017 [PDF - BIBTEX]
 
 > **A deep representation for depth images from synthetic data**  
 F.M. Carlucci, P. Russo and B. Caputo  
-ICRA 2017 [PDF - Project Page - BIBTEX]
+ICRA 2017 [PDF - Project Page - <span class="BIBTEX">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2016deep,
@@ -43,7 +43,7 @@ ICRA 2017 [PDF - Project Page - BIBTEX]
 
 > **When Naive Bayes Nearest Neighbors Meet Convolutional Neural Networks**  
 I. Kuzborskij, F.M. Carlucci and B. Caputo  
-CVPR 2016 [PDF - Project Page - BIBTEX]
+CVPR 2016 [PDF - Project Page - <span class="BIBTEX">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{kuzborskij2016naive,
@@ -57,7 +57,7 @@ CVPR 2016 [PDF - Project Page - BIBTEX]
 
 > **Explicit representation of social norms for social robots**  
 F.M. Carlucci, L. Nardi, L. Iocchi and D. Nardi  
-IROS 2015 [PDF - Project Page - BIBTEX]
+IROS 2015 [PDF - Project Page - <span class="BIBTEX">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2015explicit,
