@@ -16,3 +16,11 @@ span.copyme {
   font-style: italic;
   color: black;
 }
+
+img.clipboard {
+  display: inline;
+  width: 23px;
+  height: 23px; 
+  vertical-align: middle;
+  margin-bottom: 5px;
+}
