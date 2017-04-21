@@ -1,4 +1,6 @@
 $('span.bibtex').click(function(){
-  // $('.bibitem').hide();
-  $(this).parents('blockquote').next('.bibitem').toggle();
+  // $('span.copyme').remove();
+  var bibitem = $(this).parents('blockquote').next('.bibitem');
+  bibitem.append('<span class="copyme">Click to copy</span>');
+  bibitem.toggle();
 });
