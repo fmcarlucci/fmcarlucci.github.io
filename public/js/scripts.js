@@ -7,9 +7,11 @@ function copyToClipboard(text) {
 }
 
 $('span.bibtex').click(function(){
-  $('span.copyme').empty();
+  var bibitem = $(this).parents('blockquote').next('.bibitem');
+  bibitem.toggle();
+});
+
+$('img.clipboard').click(function(){
   var bibitem = $(this).parents('blockquote').next('.bibitem');
   copyToClipboard(bibitem.text());
-  bibitem.append('<span class="copyme">-Copied to clipboard-</span>');
-  bibitem.toggle();
 });
