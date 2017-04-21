@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+<div>
 > **DE2CO: Deep Depth Colorization**  
 F.M. Carlucci, P. Russo and B. Caputo  
 arXiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
@@ -14,7 +15,7 @@ arXiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
   year={2017}
 }
 </pre>
-
+</div>
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
 arxiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
