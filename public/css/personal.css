@@ -9,4 +9,10 @@ pre.bibitem {
 
 span.bibtex {
   cursor: pointer;
+  font-style: italic;
+}
+
+span.copyme {
+  font-style: italic;
+  color: black;
 }
