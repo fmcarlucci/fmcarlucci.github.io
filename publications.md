@@ -18,7 +18,7 @@ arXiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [PDF - <span class="bibtex">BIBTEX</span> <img class="clipboard" src="{{ site.baseurl }}public/images/clipboard.png"/>]
+arxiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @article{carlucci2017just,
@@ -73,5 +73,6 @@ IROS 2015 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
 <script>
 $(document).ready(function(){
   $('span.bibtex').attr('title', 'Shows and copies bibtex entry');
+  $('span.bibtex').append('<img class="clipboard" src="{{ site.baseurl }}public/images/clipboard.png"/>');
 });
 </script>
