@@ -1,3 +1,3 @@
 $('span.bibtex').click(function(){
-  $(this).find('bibitem').show();
+  $(this).find('.bibitem').show();
 })
