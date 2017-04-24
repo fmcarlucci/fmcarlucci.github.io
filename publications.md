@@ -5,7 +5,7 @@ title: Publications
 
 > **DE2CO: Deep Depth Colorization**  
 F.M. Carlucci, P. Russo and B. Caputo  
-arXiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
+arXiv 2017 [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @article{carlucci20172,
@@ -18,7 +18,7 @@ arXiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
+arxiv 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @article{carlucci2017just,
@@ -31,7 +31,7 @@ arxiv 2017 [PDF - <span class="bibtex">BIBTEX</span>]
 
 > **A deep representation for depth images from synthetic data**  
 F.M. Carlucci, P. Russo and B. Caputo  
-ICRA 2017 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
+ICRA 2017 [<a href="https://arxiv.org/pdf/1609.09713">PDF</a> - Project Page - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2016deep,
@@ -44,7 +44,7 @@ ICRA 2017 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
 
 > **When Naive Bayes Nearest Neighbors Meet Convolutional Neural Networks**  
 I. Kuzborskij, F.M. Carlucci and B. Caputo  
-CVPR 2016 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
+CVPR 2016 [<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuzborskij_When_Naive_Bayes_CVPR_2016_paper.pdf">PDF</a> - Project Page - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{kuzborskij2016naive,
@@ -58,7 +58,7 @@ CVPR 2016 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
 
 > **Explicit representation of social norms for social robots**  
 F.M. Carlucci, L. Nardi, L. Iocchi and D. Nardi  
-IROS 2015 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
+IROS 2015 [<a href="http://www.dis.uniroma1.it/~iocchi/publications/iocchi-iros15.pdf">PDF</a> - Project Page - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2015explicit,
