@@ -26,4 +26,4 @@ Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy)
 
 * 04/2012 - 12/2012: **Java developer** for INTEGRA sistemi. Development of various Java applets. 
 
-* 10/2011 - 03/2012: **Java developer** for FHOSTER. Internship for my Bachelor's Degree. The goal was to design and implement a software architecture that enabled the visualization and handling of great amount of data in a dynamic way, keeping in memory only the informations strictly needed in a given moment
+* 10/2011 - 03/2012: **Java developer** for [FHOSTER](https://www.fhoster.com). Internship for my Bachelor's Degree. The goal was to design and implement a software architecture that enabled the visualization and handling of great amount of data in a dynamic way, keeping in memory only the informations strictly needed in a given moment
