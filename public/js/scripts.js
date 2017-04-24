@@ -5,13 +5,3 @@ function copyToClipboard(text) {
   document.execCommand("copy");
   $temp.remove();
 }
-
-$('span.bibtex').click(function(){
-  var bibitem = $(this).parents('blockquote').next('.bibitem');
-  bibitem.toggle();
-});
-
-$('img.clipboard').click(function(){
-  var bibitem = $(this).parents('blockquote').next('.bibitem');
-  copyToClipboard(bibitem.text());
-});
