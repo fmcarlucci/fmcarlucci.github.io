@@ -18,5 +18,12 @@ Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy)
 
  
 ## Experience
-La la la lu
+* 09/2016 - 08/2017: **Teaching assistant** for the Machine Learning course held by Prof. Barbara Caputo at Sapienza University of Rome.
 
+* 3/2015 – 10/2015: **Research Assistant** for Prof. Barbara Caputo at Sapienza University, Rome (Italy). Development of algorithms for image recognition using convolutional neural networks and local representations.
+
+* 01/2013 - 12/2014: **Web developer (server and client side)** for C.N.R (National Research Council). Algorithmic contributions to the development of a in-house social network.
+
+* 04/2012 - 12/2012: **Java developer** for INTEGRA sistemi. Development of various Java applets. 
+
+* 10/2011 - 03/2012: **Java developer** for FHOSTER. Internship for my Bachelor's Degree. The goal was to design and implement a software architecture that enabled the visualization and handling of great amount of data in a dynamic way, keeping in memory only the informations strictly needed in a given moment
