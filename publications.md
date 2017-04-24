@@ -31,7 +31,7 @@ arxiv 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bi
 
 > **A deep representation for depth images from synthetic data**  
 F.M. Carlucci, P. Russo and B. Caputo  
-ICRA 2017 [<a href="https://arxiv.org/pdf/1609.09713">PDF</a> - Project Page - <span class="bibtex">BIBTEX</span>]
+ICRA 2017 [<a href="https://arxiv.org/pdf/1609.09713">PDF</a> - <a href="https://sites.google.com/site/vandaldepthnet/">Project Page</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2016deep,
@@ -44,7 +44,7 @@ ICRA 2017 [<a href="https://arxiv.org/pdf/1609.09713">PDF</a> - Project Page - <
 
 > **When Naive Bayes Nearest Neighbors Meet Convolutional Neural Networks**  
 I. Kuzborskij, F.M. Carlucci and B. Caputo  
-CVPR 2016 [<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuzborskij_When_Naive_Bayes_CVPR_2016_paper.pdf">PDF</a> - Project Page - <span class="bibtex">BIBTEX</span>]
+CVPR 2016 [<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuzborskij_When_Naive_Bayes_CVPR_2016_paper.pdf">PDF</a> - <a href="https://sites.google.com/site/nbnncnn/">Project Page</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{kuzborskij2016naive,
@@ -58,7 +58,7 @@ CVPR 2016 [<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/pa
 
 > **Explicit representation of social norms for social robots**  
 F.M. Carlucci, L. Nardi, L. Iocchi and D. Nardi  
-IROS 2015 [<a href="http://www.dis.uniroma1.it/~iocchi/publications/iocchi-iros15.pdf">PDF</a> - Project Page - <span class="bibtex">BIBTEX</span>]
+IROS 2015 [<a href="http://www.dis.uniroma1.it/~iocchi/publications/iocchi-iros15.pdf">PDF</a> - <a href="https://sites.google.com/site/socialrobotplanning/">Project Page</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2015explicit,
@@ -75,6 +75,10 @@ $(document).ready(function(){
   $('span.bibtex').attr('title', 'Shows bibtex entry');
   $('span.bibtex').append('<img class="clipboard" src="{{ site.baseurl }}public/images/clipboard.png"/>');
   $('span.bibtex img').attr('title', 'Copy bibtex entry'); 
+  // adding target attr
+  $('a:contains("PDF")').attr('target','_blank');
+  $('a:contains("Project Page")').attr('target','_blank');
+  // handling bibtex items
   $('span.bibtex').click(function(){
     var bibitem = $(this).parents('blockquote').next('.bibitem');
     bibitem.toggle();
