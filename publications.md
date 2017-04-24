@@ -74,7 +74,18 @@ IROS 2015 [PDF - Project Page - <span class="bibtex">BIBTEX</span>]
 $(document).ready(function(){
   $('span.bibtex').attr('title', 'Shows bibtex entry');
   $('span.bibtex').append('<img class="clipboard" src="{{ site.baseurl }}public/images/clipboard.png"/>');
-  $('span.bibtex img').attr('title', 'Copy bibtex entry');
-  // TODO give feedback for copying action
+  $('span.bibtex img').attr('title', 'Copy bibtex entry'); 
+  $('span.bibtex').click(function(){
+    var bibitem = $(this).parents('blockquote').next('.bibitem');
+    bibitem.toggle();
+  });
+
+  $('img.clipboard').click(function(){
+    var bibitem = $(this).parents('blockquote').next('.bibitem');
+    copyToClipboard(bibitem.text());
+    var pbloc = $(this).parents('p');
+    var copiedText = $('<span> - Copied! </span>').fadeOut(2000);
+    pbloc.append(item);
+  });
 });
 </script>
