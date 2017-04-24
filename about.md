@@ -10,4 +10,4 @@ title: About & Contacts
 ## Contacts
 
 I'm currently working at the **VANDAL** lab, room B004 of the DIAG, the Department of Computer, Control, and Management Engineering  Antonio Ruberti at Sapienza University of Rome (Via Ariosto 25, 00185 Rome - ITALY).  
-Feel free to contact me at fabiom.carlucci _at_ dis.uniroma1 _dot_ it
+Feel free to contact me at _fabiom.carlucci_ at _dis.uniroma1_ dot _it_
