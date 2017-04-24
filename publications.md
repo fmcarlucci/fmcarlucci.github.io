@@ -84,7 +84,7 @@ $(document).ready(function(){
     var bibitem = $(this).parents('blockquote').next('.bibitem');
     copyToClipboard(bibitem.text());
     var pbloc = $(this).parents('p');
-    var copiedText = $('<span> - Copied! </span>').fadeOut(2000, function(){$(this).empty()});
+    var copiedText = $('<span> - Copied! </span>').fadeOut(2000, function(){$(this).remove()});
     pbloc.append(copiedText);
   });
 });
