@@ -85,7 +85,7 @@ $(document).ready(function(){
     copyToClipboard(bibitem.text());
     var pbloc = $(this).parents('p');
     var copiedText = $('<span> - Copied! </span>').fadeOut(2000);
-    pbloc.append(item);
+    pbloc.append(copiedText);
   });
 });
 </script>
