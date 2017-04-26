@@ -1,3 +1,7 @@
+li.post {
+  margin-bottom: 0.1em;
+}
+
 span.post-date {
   display: inline;
 }
