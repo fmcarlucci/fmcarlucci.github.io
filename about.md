@@ -4,9 +4,7 @@ title: About & Contacts
 ---
 
 I'm a PhD student at the Department of Computer, Control, and Management Engineering (DIAG) Antonio Ruberti (Sapienza University), advised by [Prof Barbara Caputo](https://scholar.google.it/citations?user=mHbdIAwAAAAJ).
-My research area includes computer vision and machine learning. I'm currently investigating 
-
-The main topic of my work is deep learning focused on ... domain adaptation and object categorization using multimodal information. 
+My research area includes computer vision and machine learning. I'm currently focussing on object categorization using multimodal information (specifically depth sensor data) and domain adaptation. 
 
 ## Contacts
 
