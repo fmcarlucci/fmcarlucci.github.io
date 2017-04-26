@@ -26,3 +26,8 @@ img.clipboard {
   margin-left: 6px;
   cursor: pointer;
 }
+
+img .smallLeftFloat {
+  width: 120px;
+  float: left;
+}
