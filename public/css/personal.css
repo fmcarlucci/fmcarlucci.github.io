@@ -30,4 +30,5 @@ img.clipboard {
 img .smallLeftFloat {
   width: 120px;
   float: left;
+  margin-right: 1em;
 }
