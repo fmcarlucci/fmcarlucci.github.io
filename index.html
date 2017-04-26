@@ -12,7 +12,7 @@ title: Home
 <ul class="posts">
   {% for post in paginator.posts %}
   <li class="post">
-    <span class="post-date">{{ post.date | date_to_string }}: </span>
+    <span class="post-date">{{ post.date | date_to_string }}:&nbsp;</span>
     {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
   </li>
   {% endfor %}
