@@ -6,7 +6,7 @@ title: About & Contacts
 I'm a PhD student at the Department of Computer, Control, and Management Engineering (DIAG) Antonio Ruberti (Sapienza University), advised by [Prof Barbara Caputo](https://scholar.google.it/citations?user=mHbdIAwAAAAJ).
 My research area includes computer vision and machine learning. I am now focusing on object categorization using multimodal information (specifically depth sensor data) and domain adaptation. 
 
-![A picture of me]!({{ site.baseurl }}public/images/FabioMariaCarlucci.jpg")
+![A picture of me]({{ site.baseurl }}public/images/FabioMariaCarlucci.jpg")
 
 ## Contacts
 
