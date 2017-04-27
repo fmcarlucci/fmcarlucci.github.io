@@ -3,6 +3,19 @@ layout: page
 title: Publications
 ---
 
+> **AutoDIAL: Automatic DomaIn Alignment Layers**  
+F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
+arxiv 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bibtex">BIBTEX</span>]
+
+<pre class="bibitem">
+@article{carlucci2017auto,
+  title={AutoDIAL: Automatic DomaIn Alignment Layers},
+  author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
+  journal={arXiv preprint arXiv:1704.08082},
+  year={2017}
+}
+</pre>
+
 > **DE2CO: Deep Depth Colorization**  
 F.M. Carlucci, P. Russo and B. Caputo  
 arXiv 2017 [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bibtex">BIBTEX</span>]
