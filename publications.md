@@ -17,7 +17,7 @@ arxiv 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bi
 </pre>
 
 > **DE2CO: Deep Depth Colorization**  
-F.M. Carlucci, P. Russo and B. Caputo  
+F.M. Carlucci, P. Russo, S.M. Baharlou and B. Caputo  
 arXiv 2017 [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
