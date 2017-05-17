@@ -6,7 +6,7 @@ title: Publications
 
 > **Bridging between Computer and Robot Vision through Data Augmentation: a Case Study on Object Recognition**  
 A. D'Innocente, F.M. Carlucci, M. Colosi and B. Caputo  
-arxiv 2017 [<a href="https://arxiv.org/pdf/1705.02139">PDF</a> - <span class="bibtex">BIBTEX</span>]
+ICVS 2017 [<a href="https://arxiv.org/pdf/1705.02139">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{d2017bridging,
