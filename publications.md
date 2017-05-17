@@ -3,6 +3,20 @@ layout: page
 title: Publications
 ---
 
+
+> **Bridging between Computer and Robot Vision through Data Augmentation: a Case Study on Object Recognition**  
+A. D'Innocente, F.M. Carlucci, M. Colosi and B. Caputo  
+arxiv 2017 [<a href="https://arxiv.org/pdf/1705.02139">PDF</a> - <span class="bibtex">BIBTEX</span>]
+
+<pre class="bibitem">
+@inproceedings{d2017bridging,
+  title={Bridging between Computer and Robot Vision through Data Augmentation: a Case Study on Object Recognition},
+  author={D'Innocente, Antonio and Carlucci, Fabio Maria and Colosi, Mirco and Caputo, Barbara},
+  booktitle={The International Conference on Computer Vision Systems, ICVS},
+  year={2017}
+}
+</pre>
+
 > **AutoDIAL: Automatic DomaIn Alignment Layers**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
 arxiv 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bibtex">BIBTEX</span>]
