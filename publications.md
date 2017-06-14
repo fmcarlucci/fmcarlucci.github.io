@@ -45,13 +45,13 @@ arXiv 2017 [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bi
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bibtex">BIBTEX</span>]
+ICIAP 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
-@article{carlucci2017just,
+@inproceedings{carlucci2017just,
   title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
   author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
-  journal={arXiv preprint arXiv:1702.06332},
+  booktitle={ICIAP},
   year={2017}
 }
 </pre>
