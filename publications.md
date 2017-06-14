@@ -51,7 +51,7 @@ ICIAP 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bi
 @inproceedings{carlucci2017just,
   title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
   author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
-  booktitle={ICIAP},
+  booktitle={International Conference on Image Analysis and Processing, ICIAP},
   year={2017}
 }
 </pre>
