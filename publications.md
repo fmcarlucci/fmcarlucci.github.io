@@ -2,7 +2,18 @@
 layout: page
 title: Publications
 ---
+> **From source to target and back: symmetric bi-directional adaptive GAN**
+P. Russo, F.M. Carlucci, T. Tommasi and B. Caputo
+arxiv 2017 [<a href="https://arxiv.org/pdf/1705.08824">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
+<pre class="bibitem">
+@article{russo17sbadagan,
+  title={From source to target and back: symmetric bi-directional adaptive GAN},
+  author={Russo, Paolo and Carlucci, Fabio Maria and Tommasi, Tatiana and Caputo, Barbara},
+  journal={arXiv preprint arXiv:1705.08824},
+  year={2017}
+}
+</pre>
 
 > **Bridging between Computer and Robot Vision through Data Augmentation: a Case Study on Object Recognition**  
 A. D'Innocente, F.M. Carlucci, M. Colosi and B. Caputo  
