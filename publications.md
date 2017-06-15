@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 > **From source to target and back: symmetric bi-directional adaptive GAN**
-P. Russo, F.M. Carlucci, T. Tommasi and B. Caputo
+P. Russo, F.M. Carlucci, T. Tommasi and B. Caputo  
 arxiv 2017 [<a href="https://arxiv.org/pdf/1705.08824">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
