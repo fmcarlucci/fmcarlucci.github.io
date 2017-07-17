@@ -30,13 +30,13 @@ ICVS 2017 (**Best Paper Award finalist**) [<a href="https://arxiv.org/pdf/1705.0
 
 > **AutoDIAL: Automatic DomaIn Alignment Layers**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-arxiv 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bibtex">BIBTEX</span>]
+ICCV 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
-@article{carlucci2017auto,
+@inproceedings{carlucci2017auto,
   title={AutoDIAL: Automatic DomaIn Alignment Layers},
   author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
-  journal={arXiv preprint arXiv:1704.08082},
+  booktitle={{International Conference on Computer Vision (ICCV)}},
   year={2017}
 }
 </pre>
@@ -56,7 +56,7 @@ arXiv 2017 [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bi
 
 > **Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-ICIAP 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bibtex">BIBTEX</span>]
+ICIAP (oral) 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2017just,
