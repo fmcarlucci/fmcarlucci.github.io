@@ -111,7 +111,7 @@ IROS 2015 [<a href="http://www.dis.uniroma1.it/~iocchi/publications/iocchi-iros1
 <script>
 $(document).ready(function(){
   $('span.bibtex').attr('title', 'Shows bibtex entry');
-  $('span.bibtex').append('<img class="clipboard" src="{{ site.baseurl }}public/images/clipboard.png"/>');
+  $('span.bibtex').append('<img class="clipboard" src="{{ site.baseurl }}/public/images/clipboard.png"/>');
   $('span.bibtex img').attr('title', 'Copy bibtex entry'); 
   // adding target attr
   $('a:contains("PDF")').attr('target','_blank');
