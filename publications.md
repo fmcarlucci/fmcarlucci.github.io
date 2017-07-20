@@ -36,7 +36,7 @@ ICCV 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bib
 @inproceedings{carlucci2017auto,
   title={AutoDIAL: Automatic DomaIn Alignment Layers},
   author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
-  booktitle={{International Conference on Computer Vision (ICCV)}},
+  booktitle={International Conference on Computer Vision (ICCV)},
   year={2017}
 }
 </pre>
