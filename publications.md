@@ -59,11 +59,26 @@ F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò
 ICIAP (oral - **Best Student Paper**) 2017 [<a href="https://arxiv.org/pdf/1702.06332">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
-@inproceedings{carlucci2017just,
-  title={Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation},
-  author={Carlucci, Fabio Maria and Porzi, Lorenzo and Caputo, Barbara and Ricci, Elisa and Bulo, Samuel Rota},
-  booktitle={International Conference on Image Analysis and Processing, ICIAP},
-  year={2017}
+@Inbook{Carlucci2017,
+    author="Carlucci, Fabio Maria
+    and Porzi, Lorenzo
+    and Caputo, Barbara
+    and Ricci, Elisa
+    and Bul{\`o}, Samuel Rota",
+    editor="Battiato, Sebastiano
+    and Gallo, Giovanni
+    and Schettini, Raimondo
+    and Stanco, Filippo",
+    title="Just DIAL: DomaIn Alignment Layers for Unsupervised Domain Adaptation",
+    bookTitle="Image Analysis and Processing - ICIAP 2017          : 19th International Conference, Catania, Italy, September 11-15, 2017, Proceedings, Part I",
+    year="2017",
+    publisher="Springer International Publishing",
+    address="Cham",
+    pages="357--369",
+    abstract="The empirical fact that classifiers, trained on given data collections, perform poorly when tested on data acquired in different settings is theoretically explained in domain adaptation through a shift among distributions of the source and target domains. Alleviating the domain shift problem, especially in the challenging setting where no labeled data are available for the target domain, is paramount for having visual recognition systems working in the wild. As the problem stems from a shift among distributions, intuitively one should try to align them. In the literature, this has resulted in a stream of works attempting to align the feature representations learned from the source and target domains by introducing appropriate regularization terms in the objective function. In this work we propose a different strategy and we act directly at the distribution level by introducing DomaIn Alignment Layers (DIAL) which reduce the domain shift by matching the source and target feature distributions to a canonical one. Our experimental evaluation, conducted on a widely used public benchmark, demonstrates the advantages of the proposed domain adaptation strategy.",
+    isbn="978-3-319-68560-1",
+    doi="10.1007/978-3-319-68560-1_32",
+    url="https://doi.org/10.1007/978-3-319-68560-1_32"
 }
 </pre>
 
