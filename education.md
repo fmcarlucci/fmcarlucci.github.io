@@ -18,6 +18,10 @@ Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy)
 
  
 ## Experience
+* 01/2018 - \*: **Junior Research Fellow** IIT@Polimi, Milan (Italy). Fellow Junior Position in Deep Architectures for RGB-D based Robot Vision
+
+* 10/2017 - 12/2017: **Applied Scientist Intern**  @CV Team at Amazon, Berlin (Germany). Research of CNN based methods for evaluating the quality of fresh produce, using multispectral cameras.
+
 * 09/2016 - 08/2017: **Teaching assistant** for the Machine Learning course held by Prof. Barbara Caputo at Sapienza University of Rome.
 
 * 3/2015 – 10/2015: **Research Assistant** for Prof. Barbara Caputo at Sapienza University, Rome (Italy). Development of algorithms for image recognition using convolutional neural networks and local representations.
