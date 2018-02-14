@@ -43,7 +43,7 @@ ICCV 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <span class="bib
 
 > **DE2CO: Deep Depth Colorization**  
 F.M. Carlucci, P. Russo, S.M. Baharlou and B. Caputo  
-arXiv 2017 [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bibtex">BIBTEX</span>]
+ICRA 2018 & RA-L [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @article{carlucci20172,
