@@ -10,7 +10,7 @@ title:            Fabio Maria Carlucci
 tagline:          'PhD student in Computer Vision'
 description:      'I''m a PhD student at Sapienza University of Rome, advised by <a href="https://scholar.google.com/citations?user=mHbdIAwAAAAJ" target="_blank">Prof. Barbara Caputo</a>. My current research area is Deep Learning applied to machine vision.'
 url:              https://fmcarlucci.github.io/
-baseurl:          /
+baseurl:          https://fmcarlucci.github.io/
 
 author:
   name:           'Fabio Maria Carlucci'
