@@ -4,14 +4,14 @@ title: Publications
 ---
 > **From source to target and back: symmetric bi-directional adaptive GAN**  
 P. Russo, F.M. Carlucci, T. Tommasi and B. Caputo  
-arxiv 2017 [<a href="https://arxiv.org/pdf/1705.08824">PDF</a> - <span class="bibtex">BIBTEX</span>]
+CVPR 2018 [<a href="https://arxiv.org/pdf/1705.08824">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
-@article{russo17sbadagan,
+@inproceedings{russo17sbadagan,
   title={From source to target and back: symmetric bi-directional adaptive GAN},
   author={Russo, Paolo and Carlucci, Fabio Maria and Tommasi, Tatiana and Caputo, Barbara},
-  journal={arXiv preprint arXiv:1705.08824},
-  year={2017}
+  booktitle={{CVPR}},
+  year={2018}
 }
 </pre>
 
@@ -46,11 +46,11 @@ F.M. Carlucci, P. Russo, S.M. Baharlou and B. Caputo
 ICRA 2018 & RA-L [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
-@article{carlucci20172,
+@inproceedings{carlucci20172,
   title={DE2CO: Deep Depth Colorization},
-  author={Carlucci, FM and Russo, P and Baharlou, SM and Caputo, B},
-  journal={arXiv preprint arXiv:1703.10881},
-  year={2017}
+  author={Carlucci, Fabio Maria and Russo, Paolo and Caputo, Barbara},
+  booktitle={{ICRA 2018}},
+  year={2018}
 }
 </pre>
 
