@@ -10,7 +10,7 @@ CVPR 2018 [<a href="https://arxiv.org/pdf/1705.08824">PDF</a> - <span class="bib
 @inproceedings{russo17sbadagan,
   title={From source to target and back: symmetric bi-directional adaptive GAN},
   author={Russo, Paolo and Carlucci, Fabio Maria and Tommasi, Tatiana and Caputo, Barbara},
-  booktitle={{CVPR}},
+  booktitle={CVPR},
   year={2018}
 }
 </pre>
@@ -49,7 +49,7 @@ ICRA 2018 & RA-L [<a href="https://arxiv.org/pdf/1703.10881">PDF</a> - <span cla
 @inproceedings{carlucci20172,
   title={DE2CO: Deep Depth Colorization},
   author={Carlucci, Fabio Maria and Russo, Paolo and Caputo, Barbara},
-  booktitle={{ICRA 2018}},
+  booktitle={ICRA 2018},
   year={2018}
 }
 </pre>
