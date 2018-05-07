@@ -30,7 +30,7 @@ ICVS 2017 (**Best Paper Award finalist**) [<a href="https://arxiv.org/pdf/1705.0
 
 > **AutoDIAL: Automatic DomaIn Alignment Layers**  
 F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci and S. Rota Bulò  
-ICCV 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <a href=https://github.com/ducksoup/autodial">Project Page</a> - <span class="bibtex">BIBTEX</span>]
+ICCV 2017 [<a href="https://arxiv.org/pdf/1704.08082">PDF</a> - <a href="https://github.com/ducksoup/autodial">Project Page</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2017auto,
