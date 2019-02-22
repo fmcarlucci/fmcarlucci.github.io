@@ -4,7 +4,7 @@ title: Education & Experience
 ---
 
 ## Education
-* 11/2015 - 02/2018: **PhD Student in Machine Learning and Computer Vision**, with a focus on deep neural networks.
+* 11/2015 - 02/2019: **PhD Student in Machine Learning and Computer Vision**, with a focus on deep neural networks.
 Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy).
 Thesis: [Learning to see across domains and modalities](https://arxiv.org/abs/1902.04992) - [slides](https://docs.google.com/presentation/d/1O_8N9wW1USrP06Cwddy6YfCSTwqp50lLmKp7T7vQdT0/edit?usp=sharing)
 
