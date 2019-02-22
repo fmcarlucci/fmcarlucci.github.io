@@ -4,11 +4,12 @@ title: Education & Experience
 ---
 
 ## Education
+* 11/2015 - 02/2018: **PhD Student in Machine Learning and Computer Vision**, with a focus on deep neural networks.
+Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy).
+Thesis: [Learning to see across domains and modalities](https://arxiv.org/abs/1902.04992) - [slides](https://docs.google.com/presentation/d/1O_8N9wW1USrP06Cwddy6YfCSTwqp50lLmKp7T7vQdT0/edit?usp=sharing)
+
 * 01/08/2016 - 07/08/2016: **Deep Learning PhD Summer School** at 
 CIFAR ICRA, Montreal (Canada) - <https://sites.google.com/site/deeplearningsummerschool2016/>
-
-* 11/2015 - \*: **PhD Student in Machine Learning and Computer Vision**, with a focus on deep neural networks.
-Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy)
 
 * 28/10/2014 - 30/10/2014: **5th PAVIS School on Computer Vision, Pattern Recognition, and Image Processing**, PAVIS School, Sestri Levante (Italy) -  <http://www.iit.it/en/pavis-schools/schoolpavis2014.html>
 
