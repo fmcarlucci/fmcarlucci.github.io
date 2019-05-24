@@ -4,7 +4,7 @@ title: Publications
 ---
 > **Domain Generalization by Solving Jigsaw Puzzles**  
 F.M. Carlucci, A. D'Innocente, S. Bucci, B. Caputo and T. Tommasi  
-CVPR 2019 **oral** [<a href="https://arxiv.org/pdf/1903.06864">PDF</a> - <span class="bibtex">BIBTEX</span>]
+CVPR 2019 **oral** [<a href="https://arxiv.org/pdf/1903.06864">PDF</a> - <a href="https://github.com/fmcarlucci/JigenDG">Project Page</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
 @inproceedings{carlucci2019domain,
