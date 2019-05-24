@@ -2,6 +2,20 @@
 layout: page
 title: Publications
 ---
+> **Domain Generalization by Solving Jigsaw Puzzles**  
+F.M. Carlucci, A. D'Innocente, S. Bucci, B. Caputo and T. Tommasi  
+CVPR 2019 **oral** [<a href="https://arxiv.org/pdf/1903.06864">PDF</a> - <span class="bibtex">BIBTEX</span>]
+
+<pre class="bibitem">
+@inproceedings{carlucci2019domain,
+  title={Domain Generalization by Solving Jigsaw Puzzles},
+  author={Carlucci, Fabio Maria and D'Innocente, Antonio and Bucci, Silvia and Caputo, Barbara and Tommasi, Tatiana},
+  booktitle={CVPR},
+  year={2019}
+}
+</pre>
+
+
 > **From source to target and back: symmetric bi-directional adaptive GAN**  
 P. Russo, F.M. Carlucci, T. Tommasi and B. Caputo  
 CVPR 2018 [<a href="https://arxiv.org/pdf/1705.08824">PDF</a> - <span class="bibtex">BIBTEX</span>]
