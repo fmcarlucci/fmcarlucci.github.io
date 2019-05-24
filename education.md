@@ -4,7 +4,7 @@ title: Education & Experience
 ---
 
 ## Education
-* 11/2015 - 02/2019: **PhD Student in Machine Learning and Computer Vision**, with a focus on deep neural networks.
+* 11/2015 - 02/2019: **PhD in Machine Learning and Computer Vision**, with a focus on deep neural networks and domain adaptation.
 Advisor Prof. Barbara Caputo - Sapienza University of Rome (Italy).
 Thesis: [Learning to see across domains and modalities](https://arxiv.org/abs/1902.04992) - [slides](https://docs.google.com/presentation/d/1O_8N9wW1USrP06Cwddy6YfCSTwqp50lLmKp7T7vQdT0/edit?usp=sharing)
 
@@ -19,6 +19,8 @@ CIFAR ICRA, Montreal (Canada) - <https://sites.google.com/site/deeplearningsumme
 
  
 ## Experience
+* 12/2018 - \*: **Research Scientist** Huawei, London (UK). Senior Research Scientist in Artificial Intelligence.
+
 * 01/2018 - \*: **PhD Student Fellow** IIT@Polimi, Milan (Italy). Fellow Junior Position in Deep Architectures for RGB-D based Robot Vision
 
 * 10/2017 - 12/2017: **Applied Scientist Intern**  @CV Team at Amazon, Berlin (Germany). Research of CNN based methods for evaluating the quality of fresh produce, using multispectral cameras.
