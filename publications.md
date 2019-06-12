@@ -4,14 +4,15 @@ title: Publications
 ---
 > **Domain Generalization by Solving Jigsaw Puzzles**  
 F.M. Carlucci, A. D'Innocente, S. Bucci, B. Caputo and T. Tommasi  
-CVPR 2019 (**oral**) [<a href="https://arxiv.org/pdf/1903.06864">PDF</a> - <a href="https://github.com/fmcarlucci/JigenDG">Project Page</a> - <span class="bibtex">BIBTEX</span>]
+CVPR 2019 (**oral**) [<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2019_paper.pdf">PDF</a> - <a href="https://github.com/fmcarlucci/JigenDG">Project Page</a> - <span class="bibtex">BIBTEX</span>]
 
 <pre class="bibitem">
-@inproceedings{carlucci2019domain,
-  title={Domain Generalization by Solving Jigsaw Puzzles},
-  author={Carlucci, Fabio Maria and D'Innocente, Antonio and Bucci, Silvia and Caputo, Barbara and Tommasi, Tatiana},
-  booktitle={CVPR},
-  year={2019}
+@InProceedings{Carlucci_2019_CVPR,
+author = {Carlucci, Fabio M. and D'Innocente, Antonio and Bucci, Silvia and Caputo, Barbara and Tommasi, Tatiana},
+title = {Domain Generalization by Solving Jigsaw Puzzles},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
 }
 </pre>
 
